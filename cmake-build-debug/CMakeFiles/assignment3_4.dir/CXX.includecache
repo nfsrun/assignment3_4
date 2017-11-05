@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_4/reverseDigits.h
+iostream
+-
+
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_4/reverseRun.cpp
+reverseDigits.h
+/cygdrive/c/Users/super/Dropbox/Bellevue College/CS300/assignment3_4/reverseDigits.h
+
